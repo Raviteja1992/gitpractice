@@ -15,4 +15,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+ <distributionManagement>
+        <repository>
+            <id>Release</id>
+            <url>http://localhost:8081/nexus/content/repositories/Release/</url>
+        </repository>
+    </distributionManagement>
 </project>
