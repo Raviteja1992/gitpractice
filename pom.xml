@@ -22,5 +22,10 @@
             <name>Release</name>
             <url>http://localhost:8081/nexus/content/repositories/Release/</url>
         </repository>
+         <repository>
+            <id>Snapshot</id>
+            <name>Snapshot</name>
+            <url>http://localhost:8081/nexus/content/repositories/Snapshot/</url>
+        </repository>
     </distributionManagement>
 </project>
