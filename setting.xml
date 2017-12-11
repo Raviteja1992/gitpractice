@@ -1,6 +1,7 @@
- 
-<server>
+<setting>
+ <server>
   <id>Releases</id>
   <username>admin</username>
   <password>123456</password>
-</server>  
+ </server> 
+</setting>
